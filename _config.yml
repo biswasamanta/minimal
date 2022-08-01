@@ -1,6 +1,12 @@
-title: Biswa P Samanta
+title: <p align="center">Biswa P Samanta </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description: 
+  <p align="center">
+  
+  <br>
+    I work as a Enterprise Data warehouse Specialist.
+  </p>
+  
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
